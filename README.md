@@ -16,9 +16,8 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-   [![My Skills](https://skillicons.dev/icons?i=c,python,html,css,js,bootstrap,react,figma,git,ps)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nuxtjs,spring,express,nodejs,mysql,postgres,mongodb,html,css,js,ts,tailwind,bootstrap,figma,python,arduino,git,ps,pr)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=garuka-satharasinghe&show_icons=true&theme=one_dark_pro&locale=en&layout=compact" alt="garuka-satharasinghe" /></p>
 
 
 <!---
