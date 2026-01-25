@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Garuka Satharasinghe</h1>
 
-- 🔭 I’m currently an undergraduate of **University of Moratuwa, Faculty of Information Technology.**
+- 🔭 3rd year undergraduate at **University of Moratuwa, Faculty of Information Technology.**
 - 📫 Reach me through **Linkedin**
+- <p>Portfolio: https://garuka-satharasinghe.vercel.app/ </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
