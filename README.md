@@ -17,7 +17,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-   [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nuxtjs,spring,express,nodejs,mysql,postgres,mongodb,html,css,js,ts,tailwind,bootstrap,figma,python,arduino,git,ps,pr)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nuxtjs,spring,express,nodejs,mysql,postgres,mongodb,firebase,html,css,js,ts,php,tailwind,bootstrap,figma,python,arduino,docker,git,aws,linux,ubuntu,electron,ps,pr)](https://skillicons.dev)
 
 
 
